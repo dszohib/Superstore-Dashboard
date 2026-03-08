@@ -1,4 +1,3 @@
-
 # Superstore Sales Analytics Dashboard
 
 ## Overview
